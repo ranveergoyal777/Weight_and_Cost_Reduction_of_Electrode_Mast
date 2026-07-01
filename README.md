@@ -23,10 +23,10 @@ The work covers four configurations — side arm (E-ARM#1) and middle arm (E-ARM
 
 | Configuration | Mast 1 → Mast 2 (cross-section) | Weight Reduction | Estimated Cost Saving |
 |---|---|---|---|
-| E-ARM#1, 508 mm | 600×410 → 550×350 mm | 14.9% (≈790 kg) | ≈ ₹0.79 lakhs |
-| E-ARM#2, 508 mm | 600×410 → 550×350 mm | 15.4% (≈959 kg) | ≈ ₹0.96 lakhs |
-| E-ARM#1, 457 mm | 550×400 → 500×310 mm (proposed) | 22.6% (≈1054 kg) | ≈ ₹1.05 lakhs |
-| E-ARM#2, 457 mm | 550×400 → 500×310 mm | 20.4% (≈1270 kg) | ≈ ₹1.27 lakhs |
+| E-ARM#1, 508 mm | 600×410 → 550×350 mm | 14.9% (≈790 kg) | ≈ ₹3.16 lakhs |
+| E-ARM#2, 508 mm | 600×410 → 550×350 mm | 15.4% (≈959 kg) | ≈ ₹3.84 lakhs |
+| E-ARM#1, 457 mm | 550×400 → 500×310 mm (proposed) | 22.6% (≈1054 kg) | ≈ ₹4.21 lakhs |
+| E-ARM#2, 457 mm | 550×400 → 500×310 mm | 20.4% (≈1270 kg) | ≈ ₹5.08 lakhs |
 
 Across all configurations, peak stress and hydraulic cylinder base load were reduced or held essentially constant, while mast weight dropped by roughly 15–23%. The trade-off is increased total deformation, which remains within allowable limits in every case. A cylindrical mast alternative was also evaluated and found structurally inferior (higher stress and deformation) to the rectangular section, and was not pursued further.
 
